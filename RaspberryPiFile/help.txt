@@ -1,0 +1,3 @@
+raspi with the same wifi with pc, 
+run sh cam8090.sh t
+hen use vlc.exe to connect [raspi's ip]:8090
